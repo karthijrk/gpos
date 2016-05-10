@@ -9,7 +9,7 @@
 
 BLD_TOP := $(shell sh -c pwd)
 
-LIB_VERSION = 1.137
+LIB_VERSION = 9.999
 
 include make/gpo.mk
 
